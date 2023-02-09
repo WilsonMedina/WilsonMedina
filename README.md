@@ -6,7 +6,7 @@ ___
 
 Code:
 
-Python, JavaScript, HTML, CSS.
+Python, JavaScript, HTML, CSS, SQL
 ___
 
 Others tools:
