@@ -3,7 +3,7 @@ ___
 
 :telescope: I'm currently studying computer science and learning data science. :computer:
 
-I have become passionate about software development and data science, passionate about challenges, willing to constantly learn and a true believer in self-learning, currently without work experience in technology but eager to take my first job and grow professionally.
+Me he convertido en un apasionado del desarrollo de software y la ciencia de datos, apasionado por los desafíos, dispuesto a aprender constantemente y un verdadero creyente en el autoaprendizaje.
 ___
 
 Code:
