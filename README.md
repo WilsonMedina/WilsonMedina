@@ -13,4 +13,4 @@ ___
 
 Others tools:
 
-Numpy, pandas, Matplotlib :chart_with_upwards_trend:, Seaborn, Sklearn, Jupyter notebooks, Google colab 
+Numpy, pandas, Matplotlib :chart_with_upwards_trend:, Seaborn, Scikit learn, Jupyter notebooks, Google colab, Statistical and mathematical for machine learning.
