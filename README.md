@@ -8,7 +8,7 @@ ___
 
 Code:
 
-HTML, CSS, JavaScript, Python, SQL.
+HTML, CSS, JavaScript, Python, SQL, Git.
 ___
 
 Others tools:
