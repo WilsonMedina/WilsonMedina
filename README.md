@@ -8,9 +8,13 @@ ___
 📝I currently specialize in QA Analyst manual.
 
 -Design and execution of Test Cases.
+
 -Knowledge in JIRA.
+
 -I work with Agile Methodologies such as Scrum.
+
 -Queries to Database with SQL.
+
 -Knowledge Gherkin.
 
 📢 Studying English, currently my level is A2.
