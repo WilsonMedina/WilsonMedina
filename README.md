@@ -2,9 +2,18 @@
 ___
 💻 7th semester computer science student.
 
-I have become passionate about software development, passionate about challenges, willing to constantly learn and a true believer in self-learning, currently without work experience in technology but eager to take my first job and grow professionally.
+🚀 I have become passionate about IT, passionate about challenges, willing to constantly learn and a true believer in self-learning.
+-I have developed projects using technologies like HTML, CSS, JavaScript, Python, Django, GIT.
 
-Studying English, currently my level is A2.
+📝I currently specialize in QA Analyst manual.
+
+-Design and execution of Test Cases.
+-Knowledge in JIRA.
+-I work with Agile Methodologies such as Scrum.
+-Queries to Database with SQL.
+-Knowledge Gherkin.
+
+📢 Studying English, currently my level is A2.
 
 ___
 
