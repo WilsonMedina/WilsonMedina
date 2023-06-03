@@ -1,11 +1,11 @@
 # **Hi 👋 I'm Wilson Medina**
 ___
-💻 7th semester computer science student.
+💻 6th semester computer science student.
 
-🚀 I have become passionate about IT, passionate about challenges, willing to constantly learn and a true believer in self-learning.
--I have developed projects using technologies like HTML, CSS, JavaScript, Python, Django and tools like GIT, Jira software, Cypress, Postman.
+🚀 I am passionate about IT, passionate about challenges, willing to constantly learn and a true believer in self-learning.
+-I have developed projects using technologies like HTML, CSS, JavaScript, Python, Django and tools like GIT, Jira software, Cypress, Postman, Slack, Microsoft Teams.
 
-📝I currently specialize in QA Analyst manual.
+📝I currently specialize in QA Analyst Automation - Manual.
 
 -Design and execution of Test Cases.
 
@@ -21,7 +21,7 @@ ___
 
 -Knowledge Gherkin.
 
-📢 Studying English, currently my level is A2.
+📢 English student, currently my level is A2.
 
 ___
 
