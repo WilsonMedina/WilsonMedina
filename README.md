@@ -7,19 +7,23 @@ ___
 
 📝I currently specialize in QA Analyst Automation - Manual.
 
--Design and execution of Test Cases.
+-Experience in design and execution of Test Cases.
 
--Knowledge in JIRA.
+-Experience in Jira Software.
 
--Knowledge in Cypress.
+-Experience in Cypress (JavaScript).
 
--Knowledge in Postman - API.
+-Experience in Postman (API).
 
--I work with Agile Methodologies such as Scrum.
+-Experience working with Agile Methodologies such as Scrum.
 
--Queries to Database with SQL.
+-Experience in queries to Database with SQL (MySQL).
 
--Knowledge Gherkin.
+-Experience in Gherkin.
+
+-Experience in Bug-Defect report and Root Cause Analysis.
+
+-Experience in Github.
 
 📢 English student, currently my level is A2.
 
